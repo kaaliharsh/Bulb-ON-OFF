@@ -16,5 +16,5 @@ This is a simple Bulb ON-OFF project using HTML, CSS, and JavaScript. The projec
 
 ## 4. How to Run
 1. Download or clone the repository.
-2. Open the `index.html` file in any web browser.
+2. Open the `bulb-on-off.html` file in any web browser.
 3. Click the button to toggle the bulb ON and OFF.
